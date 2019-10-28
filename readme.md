@@ -12,7 +12,7 @@ Viewed & taken from Bootstrap 4 tutorial on scrimba.com
 
 ## Card Full Features
 
-![card full preview](img/card-full)
+![card full preview](img/card-full.png)
 
 ## Form
 
