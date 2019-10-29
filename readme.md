@@ -20,6 +20,10 @@ Viewed & taken from Bootstrap 4 tutorial on scrimba.com
 
 ![form regular preview](img/form-reg.png)
 
+## Grid System (Responsive)
+
+![Grid system preview](img/grid-system.png)
+
 ## List Group - Links
 
 ![list group with pill preview](img/list-pill.png)
